@@ -1,0 +1,5 @@
+{
+  "name": "AquaTrack: Water Footprint Calculator",
+  "description": "An application that uses digital technology and AI to calculate the water footprint of common daily use items, helping users understand their indirect water consumption.",
+  "requestFramePermissions": []
+}
